@@ -59,13 +59,13 @@ sskdev 는 정보주체의 이용정보를 저장하고 수시로 불러오는 �
 성명 :김성식  
 직책 :대표  
 직급 :차장  
-연락처 :010-9980-1258, [\[email protected\]](/cdn-cgi/l/email-protection),  
+연락처 :010-9980-1258, [\[email protected\]](developer.kss@gmail.com),  
 ※ 개인정보 보호 담당부서로 연결됩니다.  
   
 ▶ 개인정보 보호 담당부서  
 부서명 :개발실  
 담당자 :김성식  
-연락처 :010-9980-1258, [\[email protected\]](/cdn-cgi/l/email-protection),  
+연락처 :010-9980-1258, [\[email protected\]](developer.kss@gmail.com),  
 ② 정보주체께서는 sskdev 의 서비스(또는 사업)을 이용하시면서 발생한 모든 개인정보 보호 관련 문의, 불만처리, 피해구제 등에 관한 사항을 개인정보 보호책임자 및 담당부서로 문의하실 수 있습니다. sskdev 은(는) 정보주체의 문의에 대해 지체 없이 답변 및 처리해드릴 것입니다.
 
   
